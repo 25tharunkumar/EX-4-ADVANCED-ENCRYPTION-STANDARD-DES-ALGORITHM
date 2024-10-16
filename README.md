@@ -86,6 +86,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![Output](Op1-cry7.png)
+![Screenshot 2024-10-16 143820](https://github.com/user-attachments/assets/450ae347-f930-449e-bb4d-328ed7e7db47)
+
 ## RESULT: 
 Thus the data encryption standard algorithm had been implemented successfully.
