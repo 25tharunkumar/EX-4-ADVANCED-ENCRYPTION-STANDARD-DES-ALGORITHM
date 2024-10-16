@@ -71,7 +71,7 @@ void process_url_encryption(const char* url, DES_Block key) {
 
 int main() {
     printf("Ex-7 - Implement DES Encryption and Decryption\n");
-    const char* url = "https://preethi.com"; 
+    const char* url = "https://tharun.com"; 
     DES_Block key = 0x133457799BBCDFF1;
 
     printf("Encrypting URL: %s\n", url);
